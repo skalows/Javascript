@@ -1,0 +1,52 @@
+.div {
+  background-color: #F5ECCE;
+  padding: 10px;
+}
+.h1 {
+  color: #8A0808;
+  font-size: 30px;
+}
+
+p {
+  color: green;
+  background: #F79F81;
+  padding: 15px;
+  font-family: arial, helvetica, verdana, sans-serif;
+}
+
+body {
+  background-color: #cadde5;
+  padding: 30px
+}
+
+ul {
+  background: #F4F4F4;
+  border: 1px solid #7C7C7C;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.cabecera {
+  background-color: #BCA9F5;
+  padding: 20px;
+}
+.pie {
+  background-color: #088A4B;
+  padding: 20px;
+}
+
+#contenido {
+    margin: 0;
+    width: 700px;
+}
+
+
+.lista  {
+  color: #4B8A08;
+  list-style-type: none;
+}
+
+p span {
+  color: red;
+  font-weight: bold;
+}
